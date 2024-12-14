@@ -1,7 +1,5 @@
-import React, { useState } from "react";
-
 "use client";
-import React from "react";
+import React, { useState } from "react";
 
 function MainComponent() {
   const [grades, setGrades] = useState({
