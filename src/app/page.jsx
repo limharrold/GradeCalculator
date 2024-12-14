@@ -77,7 +77,7 @@ function MainComponent() {
           Grade Calculator
         </h1>
         <p className="text-sm text-gray-500 text-center -mt-4 mb-6">
-          By Pogi Pareng Lim
+          By Harrold Lim 😎
         </p>
 
         <div className="space-y-4">
